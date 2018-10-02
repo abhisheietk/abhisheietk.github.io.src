@@ -1,6 +1,6 @@
 [submodule "output"]
 	path = output
-	url = ../ghpages
+	url = https://github.com/abhisheietk/abhisheietk.github.io.git
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins.git

@@ -1,10 +1,11 @@
----
-layout: post
-section-type: post
-title:  "Creating CA"
-date:   2015-10-17 16:47:21
-categories: web2py
----
+Title: Creating CA
+Date: 2015-10-17 16:47:21
+Category: notes
+Tags: openssl
+Slug: ca
+Authors: Abhishek Bajpai
+Summary: Notes on CA creation
+
 
 Create a 
 {% highlight sh %}
